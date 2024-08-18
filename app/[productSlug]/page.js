@@ -1,5 +1,5 @@
 import Image from "next/image";
-import ProductDetail from "@/components/Products/Product details/ProductDetail";
+import ProductDetail from "@/components/Products/Product Details/ProductDetail";
 import { getHttpDetails } from "@/util/http";
 import { notFound } from "next/navigation";
 
