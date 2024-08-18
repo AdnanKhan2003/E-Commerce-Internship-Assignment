@@ -1,0 +1,12 @@
+.container_grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, auto));
+  justify-content: center;
+  align-content: center;
+  grid-column-gap: 15px;
+  grid-row-gap: 15px;
+}
+
+.margin {
+  margin: 5rem auto;
+}

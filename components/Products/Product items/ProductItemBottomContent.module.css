@@ -1,0 +1,28 @@
+.bottom_content {
+  padding: 0.4rem 0.5rem 1rem 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  background-color: #f5f7fa;
+  border-radius: 0.5rem;
+}
+.description {
+  margin-bottom: 0.5rem;
+  margin-top: 0.2rem;
+  color: #333;
+  color: #777;
+}
+.button_container {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
+.title {
+  color: #333;
+  font-weight: 800;
+}
+
+h1.title:hover {
+  color: #68a2af;
+  transition: all 0.3s ease-in-out;
+}

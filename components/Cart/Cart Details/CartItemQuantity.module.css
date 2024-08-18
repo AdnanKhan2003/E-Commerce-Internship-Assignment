@@ -1,0 +1,7 @@
+.bg_color {
+  background-color: #ebf4f6;
+}
+button.bg_color:hover {
+  background-color: #68a2af;
+  transition: all 0.3s ease-in-out;
+}

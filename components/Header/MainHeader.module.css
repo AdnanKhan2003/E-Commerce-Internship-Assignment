@@ -1,0 +1,26 @@
+.main_header {
+  background-color: #fff;
+}
+
+.nav_list_container {
+  display: flex;
+  align-items: center;
+}
+
+.nav_spacing {
+  padding: 1rem 1rem;
+}
+
+li.nav_link_item:hover {
+  color: cornflowerblue;
+}
+li.nav_link_item:active {
+  color: cornflowerblue;
+}
+.nav_link_item {
+  margin-left: 1rem;
+  display: flex;
+  align-items: center;
+  position: relative;
+  color: #000;
+}

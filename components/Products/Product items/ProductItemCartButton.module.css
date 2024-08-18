@@ -1,0 +1,17 @@
+.bg_color {
+  background-color: #ebf4f6;
+}
+button.bg_color:hover {
+  background-color: #68a2af;
+  color: #fff;
+  transition: all 0.3s ease-in-out;
+}
+
+.active {
+  background: #758694;
+  color: #fff;
+}
+button.active:hover {
+  background: #2b4961;
+  transition: all 0.3s ease-in-out;
+}

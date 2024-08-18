@@ -1,0 +1,14 @@
+.discounted_price,
+.price {
+  text-decoration: none;
+}
+.discounted_price {
+  color: #777;
+  font-size: 0.9rem;
+  text-decoration: line-through;
+}
+.price {
+  font-size: 1.2rem;
+  color: #333;
+  font-weight: bold;
+}

@@ -1,0 +1,18 @@
+.button_sm {
+  padding: 0.3rem 0.5rem;
+  font-size: 1rem;
+}
+.button_md {
+  padding: 0.5rem 0.7rem;
+  font-size: 1rem;
+}
+
+.button {
+  border: 1px solid #ccc;
+  border-radius: 0.3rem;
+  cursor: pointer;
+}
+
+.button_light {
+  background-color: #ebf4f6;
+}

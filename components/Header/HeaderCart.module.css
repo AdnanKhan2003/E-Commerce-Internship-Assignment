@@ -1,0 +1,9 @@
+.cart_items_quantity {
+  border-radius: 50%;
+  background-color: #68a2af;
+  color: #fff;
+  padding: 0.1rem 0.51rem;
+  position: absolute;
+  top: -8px;
+  left: 14px;
+}
