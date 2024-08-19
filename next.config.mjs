@@ -1,10 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {
-    appDir: true,
-  },
+  experimental: {},
   swcMinify: true,
   optimizeFonts: true,
+  paths: {
+    "@/*": ["./*"],
+  },
   images: {
     remotePatterns: [
       {
