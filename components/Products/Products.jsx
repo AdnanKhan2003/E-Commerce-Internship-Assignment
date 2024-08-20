@@ -1,6 +1,6 @@
 "use client";
 
-import ProductItem from "./Product Items/ProductItem.jsx";
+import ProductItem from "@/components/Products/Product Items/ProductItem.jsx";
 
 import styles from "./Products.module.css";
 import { AnimatePresence } from "framer-motion";
